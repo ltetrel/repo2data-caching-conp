@@ -1,5 +1,0 @@
-nilearn
-numpy
-matplotlib
-scipy
-sklearn
